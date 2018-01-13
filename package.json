@@ -1,0 +1,29 @@
+{
+  "name": "termocloud",
+  "version": "1.0.0",
+  "description": "Termostat device software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icapa/termocloud.git"
+  },
+  "keywords": [
+    "termostat",
+    "raspberry",
+    "pi",
+    "nodejs"
+  ],
+  "author": "icayon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icapa/termocloud/issues"
+  },
+  "homepage": "https://github.com/icapa/termocloud#readme",
+  "dependencies": {
+    "firebase": "^4.8.2",
+    "nodemon": "^1.14.11"
+  }
+}
